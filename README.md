@@ -6,7 +6,7 @@
 
 :white_check_mark:**Minhas habilidades:**
 
-**- Product Management:** desenvolvimento de produto, criação de **product roadmap**, estratégia de produto, backlog grooming, priorização de tarefas usando **RICE** e **MoSCoW**, e escrita de **user stories**.
+**- Product Management:** desenvolvimento de produto, criação de **product roadmap**, estratégia de produto, backlog grooming, priorização de tarefas usando **RICE** e **MoSCoW**, e composição de **user stories**.
 
 **- User Research & UX:** planejamento e execução de pesquisas e entrevistas com usuários, análise de feedback e validação de hipóteses para uma **experiência centrada no usuário**.
 
